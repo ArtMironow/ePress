@@ -1,0 +1,10 @@
+Bestseller>BST001>Becoming>Michelle Obama>300000
+Bestseller>BST024>Educated>Tara Westover>275000
+Novel>NVL123>Lolita>Vladimir Nabokov>100000
+Novel>NVL115>Ulysses>James Joyce>143000
+Detective>DTV223>The Big Sleep>Raymond Chandler>178000
+Detective>DTV342>Brighton Rock>Graham Greene>232000
+Weekly>WKL204>World News>Generoso Pope>2900000
+Weekly>WKL387>Dragon Ball>Akira Toriyama>1915000
+Monthly>MNT765>Monthly Review>John Foster>1000000
+Monthly>MNT899>The Monthly>Nick Feik>870000
